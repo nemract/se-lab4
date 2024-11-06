@@ -1,0 +1,3 @@
+# Create a ship with no torpedos
+GT4500,0,0,1,0
+TORPEDO,ALL  # Trying to fire a either torpedo results in failure
