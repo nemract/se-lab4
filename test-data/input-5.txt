@@ -1,0 +1,5 @@
+# Create a ship with where the second store is empty
+GT4500,1,0,2,0
+TORPEDO,SINGLE   # Fire from the first store
+TORPEDO,SINGLE
+TORPEDO,SINGLE
