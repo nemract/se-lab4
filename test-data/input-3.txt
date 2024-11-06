@@ -1,0 +1,4 @@
+# Create a ship with where the first store is empty, and the second always fails
+GT4500,0,0,1,1
+TORPEDO,SINGLE   # The first storage fails
+TORPEDO,SINGLE   # The ship doesn't try to fire the other one, since it fails
